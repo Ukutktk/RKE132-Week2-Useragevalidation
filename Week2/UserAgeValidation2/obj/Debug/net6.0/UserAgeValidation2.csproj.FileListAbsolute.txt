@@ -1,0 +1,14 @@
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\bin\Debug\net6.0\UserAgeValidation2.exe
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\bin\Debug\net6.0\UserAgeValidation2.deps.json
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\bin\Debug\net6.0\UserAgeValidation2.runtimeconfig.json
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\bin\Debug\net6.0\UserAgeValidation2.dll
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\bin\Debug\net6.0\UserAgeValidation2.pdb
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.AssemblyInfoInputs.cache
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.AssemblyInfo.cs
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.csproj.CoreCompileInputs.cache
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.dll
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\obj\Debug\net6.0\refint\UserAgeValidation2.dll
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.pdb
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\obj\Debug\net6.0\UserAgeValidation2.genruntimeconfig.cache
+C:\Users\Ukupr\source\repos\Week2\UserAgeValidation2\obj\Debug\net6.0\ref\UserAgeValidation2.dll
